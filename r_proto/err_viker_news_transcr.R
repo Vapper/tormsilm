@@ -110,4 +110,15 @@ transcr_df |>
   select(date, url, text) |> 
   jsonlite::write_json(data_dir / "err_viker_uudised_2023_transcript.json")
 
+# sample json
+transcr_df |> 
+  mutate(heading = str_remove(heading, "^UUDISED.\\s+")) |> 
+  mutate(date = as.Date(date)) |> 
+  unite(text, heading, lead, transcript, sep = "\n") |> 
+  select(date, url, text) |> 
+  filter(str_detect(text, regex("torm|elektrikatk|üleuju|rahe", ignore_case = TRUE, multiline = TRUE))) |> 
+  slice(3, 37, 70, 75, 86) |> 
+  jsonlite::write_json(data_dir / "err_viker_uudised_2023_transcript_sample.json", pretty = TRUE)
+
+
 
