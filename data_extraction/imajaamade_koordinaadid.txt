@@ -1,0 +1,180 @@
+Heltermaa
+Laius: N 58°51’59”
+Pikkus: E 23°02’48”
+AJHELT01
+
+
+Jõgeva
+Laius: N 58°44’59”
+Pikkus: E 26°24’54”
+
+AJJOGE01
+
+
+Jõhvi
+Laius: N 59°19’44”
+Pikkus: E 27°23’54”
+
+AJJOHV01
+
+
+Kihnu
+Laius: N 58°05’55”
+Pikkus: E 23°58’13”
+
+AJKIHN01
+
+
+Kunda
+Laius: N 59°31’17”
+Pikkus: E 26°32’29”
+
+AJKUND01
+
+
+Kuressaare
+Laius: N 58°13’05”
+Pikkus: E 22°30’23”
+
+AJKURE_L
+
+
+Kuusiku
+Laius: N 58°58’23”
+Pikkus: E 24°44’02”
+
+AJKUUS01
+
+
+Lääne-Nigula
+Laius: N 58°57’04”
+Pikkus: E 23°48’56”
+
+AJNIGU01
+
+
+Narva
+Laius: N 59°23’22”
+Pikkus: E 28°06’33”
+
+AJNARV01
+
+
+Pakri
+Laius: N 59°33’32”
+Pikkus: E 24°47’32”
+
+AJPAKR01
+
+
+Pärnu
+Laius: N 58°23’4”
+Pikkus: E 24°29’6”
+
+AJPARN01
+
+
+Ristna
+Laius: N 58°55’15”
+Pikkus: E 22°03’59”
+
+AJRIST01
+
+
+Roomassaare
+Laius: N 58°13’05”
+Pikkus: E 22°30’23”
+
+AJROOM01
+
+
+Ruhnu
+Laius: N 57°47’00”
+Pikkus: E 23°15’32”
+
+
+AJRUHN01
+
+
+Sõrve
+Laius: N 57°54’49”
+Pikkus: E 22°03’29”
+
+AJSORV01
+
+
+Tallinn-Harku
+Laius: N 59°23’53”
+Pikkus: E 24°36’10”
+
+AJHARK01
+
+
+Tartu-Tõravere
+Laius: N 58°15’51”
+Pikkus: E 26°27’41”
+
+AJTART01
+
+
+Tiirikoja
+Laius: N 58°51’55”
+Pikkus: E 26°57’08”
+
+AJTIIR01
+
+
+Tooma
+Laius: N 58°52’22”
+Pikkus: E 26°16’22”
+
+AJTOOM01
+
+
+Türi
+Laius: N 58°48’31”
+Pikkus: E 25°24’33”
+
+AJTURI01
+
+
+Valga
+Laius: N 57°47’24”
+Pikkus: E 26°02’16”
+
+AJVALG01
+
+
+Viljandi
+Laius: N 58°22’40”
+Pikkus: E 25°36’01”
+
+AJVILJ01
+
+
+Vilsandi
+Laius: N 58°22’58”
+Pikkus: E 21°48’51”
+
+AJVILS01
+
+
+Virtsu
+Laius: N 58°34’22”
+Pikkus: E 23°30’49”
+
+AJVIRT01
+
+
+Võru
+Laius: N 57°50’47”
+Pikkus: E 27°01’10”
+
+AJVORU01
+
+
+Väike-Maarja
+Laius: N 59°08’29”
+Pikkus: E 26°13’51”
+
+AJV-MA01
