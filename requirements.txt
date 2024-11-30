@@ -1,0 +1,5 @@
+selenium>=4.9.0
+beautifulsoup4>=4.11.0
+undetected-chromedriver>=3.5.3
+fake-useragent>=1.1.1
+requests>=2.31.0
