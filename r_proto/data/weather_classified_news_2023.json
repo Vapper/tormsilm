@@ -1,0 +1,4820 @@
+{
+  "summary": {
+    "total_articles": 2965,
+    "relevant_articles": 77,
+    "relevance_rate": 2.6,
+    "processing_date": "2024-11-30T10:43:00.009296",
+    "confidence_threshold": 0.65
+  },
+  "results": [
+    {
+      "date": "2023-01-05",
+      "url": "uudised-otsust-elektrilevi-lahutamiseks-eesti-energiast-ei-ole-tehtud",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.82,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Otsust Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Casandrool",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Viiutamise",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_lines",
+            "confidence": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-01-12",
+      "url": "uudised-elektrituruseaduse-muudatus-tokestab-fantoomliitumised",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Gabroneeringutest",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-01-13",
+      "url": "uudised-muuga-ja-sillamae-sadamatesse-seisma-jaanud-vaetised-on-pohiliselt-ara-veetud",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Järvamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Muuga ja Sillamäe",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Bulgaaria",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vjatšeslav",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Talvinki",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainasse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Seda",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-01-17",
+      "url": "uudised-parnus-ei-soovita-politsei-enam-ei-jaale-minna",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.9,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.53,
+            "matches": [
+              "tugev tuul",
+              "tugev tuul"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.47,
+            "matches": [
+              "ohtlik",
+              "ohtlik",
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Pärnumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Pärnu",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-01-18",
+      "url": "uudised-daugava-molema-kalda-elanikel-lubatud-poorduda-tagasi-koju",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.88,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.38,
+            "matches": [
+              "üleujutus"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.38,
+            "matches": [
+              "üleujutatud"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.23,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Daugava",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Jekabpilsi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lätimaanurgast",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Jegaapilses",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Latvenergo",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-01-19",
+      "url": "uudised-praegune-valitsus-ei-tee-otsust-elektrilevi-eraldamiseks-eesti-energiast",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.82,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eesti Energiast\nValitsuse",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-01-19",
+      "url": "uudised-mida-on-oppida-detsembris-toimunud-pikast-elektrikatkestusest-saaremaal",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Päästeameti ja Saaremaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kalliks Saaremaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Päris",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-01-19",
+      "url": "uudised-22-000-elektrilevi-klienti-on-jaanud-elektrita",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.97,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.11,
+            "matches": [
+              "tugev lumesadu"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.34,
+            "matches": [
+              "elektrita",
+              "elektrita",
+              "elektrita"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.55,
+            "matches": [
+              "kriisikomisjon",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Pärnumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Raplamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mõnel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Harjumaale",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "heavy_snow",
+            "confidence": 1.0
+          },
+          {
+            "type": "heavy_snowfall",
+            "confidence": 1.0
+          },
+          {
+            "type": "snow_storm",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          },
+          {
+            "type": "malfunction",
+            "confidence": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-02-02",
+      "url": "uudised-sotsiaalministeerium-plaanib-keelata-tervisele-ohtliku-hhc-kanepi-kaitlemise",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Mikko",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tartu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "mõjusid",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-02-13",
+      "url": "uudised-tallinna-tartu-rong-soidab-jargmise-aasta-lopus-teatud-loikudel-kuni-160-km-h",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.38,
+            "matches": [
+              "liinid"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.62,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tallinna-Tartu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Järgmise",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tartu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Bret",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinna-Aegviidu",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-02-13",
+      "url": "uudised-elering-tahab-muuta-vorgutasusid",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elering",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Selle",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kodutarbijat",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "öelda",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-02-19",
+      "url": "uudised-kaja-kallase-sonul-kolab-aina-enam-sonumeid-et-laas-soovib-ukrainas-rahulepet",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "ohtlik",
+              "ohtlik",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eestis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lätis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Leedus",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Poolas",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-03-06",
+      "url": "uudised-ekre-lubab-e-valimiste-tulemused-kohtus-vaidlustada",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kahjustada",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "tähelepanu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Riigikokku",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Reformierakonna",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-03-10",
+      "url": "uudised-ukraina-sojas-hukkus-esimene-eestlane",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Juraku",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainas",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Seda",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kaitseministeeriumil",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Palun",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-03-18",
+      "url": "uudised-nommel-katsetatakse-veevarustuse-umbertostmist",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 1.0,
+            "matches": [
+              "elektrikatkestus",
+              "elektrikatkestus"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Katsetuse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinna Vesi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinna",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ülemiste",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-03-21",
+      "url": "uudised-loodav-voimuliit-kavatseb-kaotada-uldise-tasuta-maakondliku-uhistranspordi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.38,
+            "matches": [
+              "liinid"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.62,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eesti Energiast",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Transpordist",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "omavahel",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-03-22",
+      "url": "uudised-tartus-avatakse-korgema-kunstikooli-pallase-meediadisaini-osakonna-tudengite-naitus",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 1.0,
+            "matches": [
+              "torm",
+              "torm"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Näituse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tarbijat",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kama",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Klis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Pallase",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kord",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-03-24",
+      "url": "uudised-tallinnas-joe-tanaval-vigastati-gaasitrassi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "päästjad",
+              "päästjad",
+              "päästeamet"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Narva",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "asi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-03-29",
+      "url": "uudised-haapsalus-algab-suvel-viimaste-aastakumnete-mahukaim-elamuehitus",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 1.0,
+            "matches": [
+              "üleujutus",
+              "üleujutus"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Haapsalu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Marianholmi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kinnisvara",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Sukles",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          },
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-04-04",
+      "url": "uudised-kevadine-suurvesi-ajas-tamula-jarve-ule-kallaste",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.45,
+            "matches": [
+              "üleujutus"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.55,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lõuna-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tamula",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Võrumaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Roosisaare",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Haanja",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-04-12",
+      "url": "uudised-vene-kodanike-oigusi-kavatsetakse-veel-piirata",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Valgevene",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-04-16",
+      "url": "uudised-kaitsevagi-ajateenistust-veel-pikendada-ei-kavatse",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Koalitsioonileppe",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lünka",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-04-18",
+      "url": "uudised-paastjad-on-tanavu-kustutanud-ule-200-maastikupolengu",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "päästjad",
+              "päästjad",
+              "päästjad",
+              "päästeamet"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Päästjad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lääne",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-04-18",
+      "url": "uudised-pevkur-nato-uued-kaitseplaanid-kinnitatakse-vilniuse-tippkohtumisel",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Vilniuse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Balti",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Pevkur",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "luba",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Läänemere",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-04-25",
+      "url": "uudised-mida-tanavu-suursaartel-elektrivorgu-tugevdamiseks-teha-joutakse",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "eelmisel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaale ja Hiiumaale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaal\nja Hiiumaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Valjala",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "malfunction",
+            "confidence": 0.7
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-05-01",
+      "url": "uudised-elektrilevi-lubab-sel-nadalal-lahendada-paidet-segavad-elektrikatkestused",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.97,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.18,
+            "matches": [
+              "elektrikatkestus"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.71,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.11,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Järvamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Kulno Klein",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elektrilevile",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Paide",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-05-08",
+      "url": "uudised-mall-malberg-valiskommentaar-415386",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kahjustada",
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Ankara",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Türgi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Roolu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "USA",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaast",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Laan",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Klistorolo",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-05-12",
+      "url": "uudised-saaremaa-vald-alustas-tasuta-joogivee-jagamist",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kriis",
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "proovid",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Näitasid",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-05-16",
+      "url": "uudised-maastikupolengud-panid-ida-viru-paastjad-proovile",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.9,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 0.84,
+            "matches": [
+              "päästjad",
+              "päästjad",
+              "päästjad",
+              "päästjad"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.16,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ida-Virumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Ida-Viru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ida-Virumaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eelmisel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ida-Virumaal Kohtla-Järve",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tööd",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Onlõkkest",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-05-24",
+      "url": "uudised-tallinnas-suur-sojamael-jatkub-jaatmejaama-suurpolengu-kustutamine",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 0.57,
+            "matches": [
+              "päästeamet"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.43,
+            "matches": [
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tallinnas Suur-Sõjamäel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kustutustööd",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Suur-Sõjamäe",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Käitlemiskeskuse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "laos",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "nagu levinud",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Olukord",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-05-26",
+      "url": "uudised-mistahes-telefoniapi-ohutuses-saab-inimene-ise-veenduda",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Montana",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Telia",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-05-30",
+      "url": "uudised-droonid-voivad-ka-rahuajal-ohte-tekitada",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Laialt",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-06-06",
+      "url": "uudised-rainer-saks-kahhovka-tammi-ohkulaskmine-aeglustab-ukraina-vastupealetungi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Dnipro",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vene",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tekivad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tähelepanu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tundub",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tuleksid",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-06-14",
+      "url": "uudised-vanalinna-elanikud-on-hairitud-olde-hansa-restorani-juures-kolavatest-hoigetest",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "häiritud",
+              "häiritud"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tallinna",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Hansa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tähelepanu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Linnavalitsuse",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-06-14",
+      "url": "uudised-euroopa-kaalub-gaasi-varumist-ukraina-hoidlatesse",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainal",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-06-22",
+      "url": "uudised-puukidele-sobilikud-tingimused-on-suurendanud-puugihaiguste-podemist",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-06-23",
+      "url": "uudised-voidupuha-puhul-peeti-laanemaal-noarootsis-tana-maakaitsepaeva",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "päästjad",
+              "päästjad"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võidupüha",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Marika",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Noarootsi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kertu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Treppi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-06-27",
+      "url": "uudised-ukraina-arendab-antonivka-sillapead",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "ohtlik",
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Antonivka",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Dnipro",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainas",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Krimmi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Raske",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainal",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-07-02",
+      "url": "uudised-tartus-hakatakse-suitsukonisid-umber-tootlema",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 0.73,
+            "matches": [
+              "päästjad",
+              "päästeamet"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.27,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tartus",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lõuna Päästekeskuse",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tartu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Konisid",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Sissa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Filaret",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lõuna",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "vähendab",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-07-17",
+      "url": "uudised-ministeerium-tahab-karistada-hairekeskuse-too-takistajaid",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "häirekeskus",
+              "häirekeskus",
+              "häirekeskus",
+              "häirekeskus"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Niipea",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-07-18",
+      "url": "uudised-tallinn-teeb-umberkorraldusi-bussiliikluses",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 1.0,
+            "matches": [
+              "liinid",
+              "liinid"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tallinn",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinnas",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ümberkorraldused",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinna",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Piritale",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-07-21",
+      "url": "uudised-kadrioru-pargis-levib-ohtlik-taimehaigus-jalakasurm",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.62,
+            "matches": [
+              "kahjustused"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.37,
+            "matches": [
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Viljandimaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Kadrioru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ain Järve",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tallinna",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "künnad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Viljandi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Irisa",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-08-09",
+      "url": "uudised-eestis-on-lepikud-vananemas",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.45,
+            "matches": [
+              "kahjustused"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.55,
+            "matches": [
+              "kahjustada",
+              "kahjustada"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Hall-lepikuid",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eestis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kasutatakse hall",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lepavoy",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "eelmisel",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-08-10",
+      "url": "uudised-paasteamet-soovitab-jatta-riigiasutuste-soidukid-maksustamata",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "päästeamet",
+              "päästeamet"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Jautiliseerimisel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "B",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lauri",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-08-11",
+      "url": "uudised-arvamusfestivali-avapaeval-raagiti-ka-ukraina-ulesehitamisest",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.62,
+            "matches": [
+              "üleujutus"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.37,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Paides",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Arvamusfestivalil",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Paide",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-08-17",
+      "url": "uudised-hiina-majanduse-mured-suvenevad",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Hiinal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kaljula",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-08-17",
+      "url": "uudised-elektrilevi-panustab-lahitulevikus-saarte-elektriliinidesse-miljoneid",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Millistest",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_lines",
+            "confidence": 0.8
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-08-31",
+      "url": "uudised-ool-vastu-neljapaeva-murdis-torm-vorumaal-tsooru-pargis-maha-hinnanguliselt-sadakond-puud",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 1.0,
+            "matches": [
+              "torm",
+              "torm",
+              "tugev tuul"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaal Tsooru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Avo Kirsbaum",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tsooru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Erko Sibul",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-08-31",
+      "url": "uudised-tanaoine-aikesetorm-toi-louna-eestis-paasteametile-palju-tood",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.97,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.23,
+            "matches": [
+              "torm"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.23,
+            "matches": [
+              "murdunud puud"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.55,
+            "matches": [
+              "päästjad",
+              "päästjad",
+              "päästjad"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lõuna-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Põlvamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Lõuna-Eestis Päästeametile",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tsooru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mõnel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Põlvamaale Põlvamaale",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "fallen_trees",
+            "confidence": 1.0
+          },
+          {
+            "type": "power_lines",
+            "confidence": 0.8
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-08-31",
+      "url": "uudised-kolmanda-kategooria-orkaan-idalia-rasis-usa-florida-osariiki",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.9,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.71,
+            "matches": [
+              "orkaan",
+              "orkaan",
+              "orkaan",
+              "tugev tuul",
+              "tulvavesi"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.29,
+            "matches": [
+              "elektrita",
+              "elektrita"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Florida",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Dahlia",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Frankfurt",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Fort Myersi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lõuna-Carolina",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": 500000,
+          "duration": null,
+          "scale": "major",
+          "confidence": 1.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          },
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-09-04",
+      "url": "uudised-rootsile-on-koraanipoletamised-maksma-lainud-ligi-400-000-eurot",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "häiritud",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Malmö",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Momika",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Rootsit ja Taanit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Rootsit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vägivaldne",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Stockholmis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Rootsi krooni",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-09-06",
+      "url": "uudised-eesti-energia-viib-700-tootajat-elektrilevisse-tagasi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.82,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mõistlik",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Seda",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mihkel Härm\nMuutub",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-09-10",
+      "url": "uudised-sandra-saar-teadusuudised-424342",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.62,
+            "matches": [
+              "elektrikatkestus"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.37,
+            "matches": [
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Seda",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Päris",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kriisiolukordasid",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Samuti",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-09-13",
+      "url": "uudised-majanduse-loodetav-taastumine-toimub-oodatust-hiljem",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.78,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kriis",
+              "kriis",
+              "kriis",
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Selle",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "olnud",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Hinnad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kinnisvara",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kinnisvarahinnad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-09-15",
+      "url": "uudised-valjateenitud-aastate-pensioni-saamisel-on-lapsevanemad-kehvemas-seisus",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 0.57,
+            "matches": [
+              "päästjad"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.43,
+            "matches": [
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Väljateenitud",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kümniku",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Meistri",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-09-18",
+      "url": "uudised-ettevotted-kasutavad-uha-enam-tehisintellekti",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-10-03",
+      "url": "uudised-augustitorm-rasis-nursipalu-metsi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.77,
+            "matches": [
+              "torm",
+              "torm"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.23,
+            "matches": [
+              "kahjustada"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lõuna-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Lõuna-Eestit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Nursipalu",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-10-07",
+      "url": "uudised-laanemaal-murrab-torm-puid-ja-segab-praamiliiklust",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.85,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.75,
+            "matches": [
+              "torm",
+              "torm",
+              "torm"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.25,
+            "matches": [
+              "elektrita"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lääne-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Pärnumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Läänemaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Läänemaale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Haapsalu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Panga",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "päris",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vormsi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Pärnumaal Kihnu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kuivastu-Virtsu Liinat",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          },
+          {
+            "type": "flooding",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-10-08",
+      "url": "uudised-tormituul-viis-sellel-nadalavahetusel-elektri-kumnetelt-tuhandetelt-eesti-majapidamistelt",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.56,
+            "matches": [
+              "vooluta"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.44,
+            "matches": [
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Lääne-Nigula",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Oru",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-10-09",
+      "url": "uudised-torm-viis-eesti-kaasaegse-kunsti-muuseumi-uue-katuse",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 1.0,
+            "matches": [
+              "torm",
+              "torm"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Eestit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tõnu Karjatse\nUue",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-10-12",
+      "url": "uudised-ool-vastu-tanast-saadeti-sadadele-asutustele-ule-eesti-kiri-venekeelse-pommiahvardusega",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 0.57,
+            "matches": [
+              "evakueerimine"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.43,
+            "matches": [
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tartumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Viljandimaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Tartu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Viljandi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tegime",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "lasteaedadest välja",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "USA",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Poola",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-10-12",
+      "url": "uudised-metsaomanikud-maadlevad-tormide-tagajargedega",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.85,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 0.75,
+            "matches": [
+              "torm",
+              "torm",
+              "tugev tuul"
+            ]
+          },
+          {
+            "name": "infrastructure_damage",
+            "score": 0.25,
+            "matches": [
+              "kahjustused"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lõuna-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Kagu-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Toftan",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Nursipalu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mõningad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Eestit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "endiselt",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kaugusel",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_lines",
+            "confidence": 0.8
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-10-13",
+      "url": "uudised-valitsuse-ida-virumaa-esindajaks-valiti-jaanus-purga",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Kirde-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Ida-Virumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Ida-Virumaale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kirde-Eestis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ida-Virumaaga",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ida-Virumaalt",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-10-17",
+      "url": "uudised-rootsi-ja-eesti-vaheline-sidekaabel-sai-kahjustada",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kahjustada",
+              "kahjustada"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Majandus-Kommunikatsiooniministeerium",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-10-20",
+      "url": "uudised-rohukula-sadama-muulid-vajavad-uuendamist",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 1.0,
+            "matches": [
+              "liinid",
+              "liinid",
+              "liinid"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Hiiumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Mandri-Eesti",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vormsi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "jõua",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Rohukülale",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Heltermaa",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-10-27",
+      "url": "uudised-vene-vaed-uritavad-ukrainas-initsiatiivi-haarata",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Tarmo",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukrainas",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Venemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Ukraina",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Riikliku",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-11-13",
+      "url": "uudised-enefit-connecti-soidukid-pannakse-taas-elektrilevi-varvidesse",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.82,
+        "categories": [
+          {
+            "name": "emergency_response",
+            "score": 1.0,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Vastupidi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Saaremaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "jaanuariks",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "öelda",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "snow_storm",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-11-21",
+      "url": "uudised-irja-lutsar-mone-koroonapiiranguga-mindi-liiale",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kriis",
+              "kriis"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Terviseametit",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "põhjustasid",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Merje",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Samamoodi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-11-23",
+      "url": "uudised-usa-s-tahistatakse-tanupuha",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "severe_weather",
+            "score": 1.0,
+            "matches": [
+              "tugev tuul",
+              "paduvihm"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "USA",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "New Jersey",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "New Yorki",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Washington",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-11-25",
+      "url": "uudised-paasteamet-soovitab-kortermajadel-hankida-generaatorid",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.8,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.38,
+            "matches": [
+              "elektrikatkestus"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.62,
+            "matches": [
+              "päästeamet",
+              "päästeamet"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Läänemaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Seda",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Tori",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-12-07",
+      "url": "uudised-maha-sadanud-lumi-kaitseb-pollukultuure-kulma-eest",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.62,
+            "matches": [
+              "kahjustused"
+            ]
+          },
+          {
+            "name": "impact",
+            "score": 0.37,
+            "matches": [
+              "kahjustada"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Eestimaad",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Paide",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-12-08",
+      "url": "uudised-kai-vare-valiskommentaar-433432",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "kahjustada",
+              "ohtlik"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Miko",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Burra",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Laakso",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Malaisia",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mauri",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Soome",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "tasu",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-12-13",
+      "url": "uudised-olukord-kagu-eestis-kohalikud-soidavad-ringi-mootorsaag-autos",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.75,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.56,
+            "matches": [
+              "elektrita"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.44,
+            "matches": [
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Kagu-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Valgamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Viljandimaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Olukord Kagu-Eestis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Viljandimaal",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Võrumaal Mõnistes\nja see",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Mekasin",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "käisid",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-12-13",
+      "url": "uudised-kagu-eestis-tuleb-elektrita-hakkama-saada-veel-paevi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.9,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.44,
+            "matches": [
+              "elektrita",
+              "elektrita",
+              "vooluta"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.47,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Lõuna-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Kagu-Eesti",
+            "type": "region",
+            "confidence": 0.9
+          },
+          {
+            "name": "Valgamaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Võrumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Telia",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kaheksakümneaastasel",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lõuna-Eestis",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Kagu-Eestis",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-12-18",
+      "url": "uudised-suursaarte-laevaliinidele-otsitakse-uut-laeva-ja-vedajat",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.68,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 1.0,
+            "matches": [
+              "liinid",
+              "liinid"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Virtsu",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "kas kalda",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    },
+    {
+      "date": "2023-12-18",
+      "url": "uudised-elektrilevi-loodab-liinikoridoride-laiendamisega-ennetada-elektrikatkestusi",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.9,
+        "categories": [
+          {
+            "name": "infrastructure_damage",
+            "score": 0.35,
+            "matches": [
+              "liinid",
+              "liinid",
+              "liinid"
+            ]
+          },
+          {
+            "name": "emergency_response",
+            "score": 0.65,
+            "matches": [
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi",
+              "elektrilevi"
+            ]
+          }
+        ],
+        "reason": "Multiple weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Harjumaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Saaremaa",
+            "type": "county",
+            "confidence": 1.0
+          },
+          {
+            "name": "Elektrilevi",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Riigimetsa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Keskkonnaametiga",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Lahemaa",
+            "type": "other",
+            "confidence": 0.7
+          },
+          {
+            "name": "Juminda",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": [
+          {
+            "type": "power_outage",
+            "confidence": 1.0
+          },
+          {
+            "type": "storm",
+            "confidence": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2023-12-28",
+      "url": "uudised-ansip-reformierakonna-juht-tuleb-valja-vahetada",
+      "relevance": {
+        "relevant": true,
+        "confidence": 0.73,
+        "categories": [
+          {
+            "name": "impact",
+            "score": 1.0,
+            "matches": [
+              "ohtlik",
+              "oht",
+              "oht"
+            ]
+          }
+        ],
+        "reason": "Weather-related patterns found"
+      },
+      "classification": {
+        "locations": [
+          {
+            "name": "Ansipi",
+            "type": "other",
+            "confidence": 0.7
+          }
+        ],
+        "severity": {
+          "affected_customers": null,
+          "duration": null,
+          "scale": "unknown",
+          "confidence": 0.0
+        },
+        "damage_types": []
+      }
+    }
+  ]
+}
